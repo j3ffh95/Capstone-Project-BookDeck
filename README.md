@@ -1,5 +1,5 @@
 ## BookDeck Library Management Tool.
-### Full Stack Web Application.
+### Full Stack Application.
 
 
 This application lets you store your books in the database. 
