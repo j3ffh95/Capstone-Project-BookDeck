@@ -20,7 +20,7 @@ import com.example.library.repository.BookRepository;
 
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController
-@RequestMapping("/api/")
+@RequestMapping("/api")
 
 public class BookController {
 	@Autowired
