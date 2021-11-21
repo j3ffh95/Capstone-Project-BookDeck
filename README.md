@@ -1,6 +1,5 @@
 ## BookDeck Library Management Tool.
-### Full Stack Application.
-
+### Full Stack Application
 
 This application lets you store your books in the database. 
 
@@ -10,5 +9,7 @@ Technologies Used:
 
 Front-end: HTML5, CSS3, Reactjs, Bootstrap, Axios library
 
-Backend: MySQL, Springboot.
+Backend: MySQL, Springboot
+
+IDE: Spring Tools Suite, VsCode
 
