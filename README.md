@@ -11,5 +11,5 @@ Front-end: HTML5, CSS3, Reactjs, Bootstrap, Axios library
 
 Backend: MySQL, Springboot
 
-IDE: Spring Tools Suite, VsCode
+IDE: Spring Tools Suite, VsCode, Eclipse
 
